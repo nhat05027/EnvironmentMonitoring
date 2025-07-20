@@ -173,7 +173,7 @@ Hệ thống giám sát môi trường công trình bao gồm:
 - **Tối ưu năng lượng cho mmWave:** Kích hoạt mmWave chỉ khi phát hiện chuyển động ban đầu qua cảm biến gió, mưa, hoặc cảm biến khác.
 - **UART ưu tiên:** Sử dụng UART cho các node gần datalogger để tăng độ tin cậy và giảm tải mạng không dây.
 
-## 3. Sơ Đồ Khối Hệ Thống
+## 3. Sơ Đồ Khối Hệ Thống (Nháp)
 ```
 [Node 1] ---- [Node 2] ---- [Node 3]
    |             |             |
